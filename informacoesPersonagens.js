@@ -1,7 +1,7 @@
 const personagens = [
-    { nome: 'Todoroki', popularidade: 85 },
+    { nome: 'Todoroki', popularidade: 90 },
     { nome: 'Neji', popularidade: 75 },
-    { nome: 'Seiya', popularidade: 90 },
+    { nome: 'Seiya', popularidade: 70 },
     { nome: 'Gojo', popularidade: 95 },
     { nome: 'Rengoku', popularidade: 80 }
 ];
